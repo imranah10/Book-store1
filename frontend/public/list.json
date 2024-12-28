@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "StoryBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 2,
+    "name": "ComedyBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 30,
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 3,
+    "name": "Horror",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 80,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 4,
+    "name": "NovelBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 100,
+    "category": "Novel",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 5,
+    "name": "MarvelBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 50,
+    "category": "Marvel",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 6,
+    "name": "SpaceBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 7,
+    "name": "Sci-FI",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 8,
+    "name": "KidsBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 9,
+    "name": "Psychology",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 10,
+    "name": "MagicBook",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 80,
+    "category": "Magic",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  },
+  {
+    "id": 11,
+    "name": "LoveStory",
+    "Title": "Lorem ipsum dolor, sit amet consectetur adipi",
+    "price": 90,
+    "category": "Story",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1735384950~exp=1735388550~hmac=ee960e58f3dc0b9d7b0a96824f01eb69c24c53b734a755fdeeb71d9f5cb77a52&w=740"
+
+  }
+]
