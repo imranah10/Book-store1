@@ -3,6 +3,7 @@ import React from "react";
 export const Banner = () => {
   return (
     <>
+     
       <div className="max-w-screen-2xl container md:px-20 mt-20 mb-10 px-4 mx-auto flex flex-col md:flex-row">
         <div className="w-full md:w-1/2 mt-12 md:mt-28 order-2 md:order-1">
           <div className="space-y-6">
@@ -28,7 +29,7 @@ export const Banner = () => {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn btn-secondary mt-6">Secondary</button>
+          <button className="btn hover:bg-pink-400 duration-200 bg-pink-600 mt-6">Secondary</button>
         </div>
         <div className="w-full md:w-1/2 order-1">
           <img className="h-92 w-92"

@@ -1,6 +1,20 @@
 import React, { useEffect, useState } from 'react'
 
 export const Navbar = () => {
+  const[theme,setTheme]=useState(localStorage.getItem('theme')?localStorage.getItem('theme'):'light')
+  const element=document.documentElement;
+  useEffect(()=>{
+    if(theme==='dark'){
+      element.classList.add('dark')
+      localStorage.setItem('theme','dark')
+      document.body.classList.add('dark')
+    }
+    else{
+      element.classList.remove('dark')
+      localStorage.setItem('theme','light')
+      document.body.classList.remove('dark')
+    }
+  },[])
 
   const [sticky,setSticky]=useState(false)
   useEffect(()=>{
@@ -16,8 +30,8 @@ export const Navbar = () => {
     return ()=> window.removeEventListener('scroll',handleScroll)
   },[])
     const navItems=(<>
-      <li><a>Home</a></li>
-        <li><a>Course</a></li>
+      <li><a href='/'>Home</a></li>
+        <li><a href='/course'>Course</a></li>
         <li><a>Contact</a></li>
         <li><a>About</a></li>
     </>)
@@ -25,7 +39,7 @@ export const Navbar = () => {
    
 
     <>
-       <div className={`max-w-screen-2xl container md:px-20 px-4 mx-auto fixed top-0 left-0 right-0 ${sticky?'sticky-navbar shadow-md bg-pink-100 duration-300 ease-in-out':''}`}>
+       <div className={`max-w-screen-2xl container md:px-20 px-4 mx-auto z-50 fixed top-0 left-0 right-0 ${sticky?'sticky-navbar shadow-md bg-pink-100 duration-300 ease-in-out':''}`}>
        <div className="navbar">
   <div className="navbar-start">
     <div className="dropdown">
