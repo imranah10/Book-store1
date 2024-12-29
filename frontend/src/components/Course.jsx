@@ -8,8 +8,8 @@ export const Course = () => {
     
   return (
     <>
-    <div className='max-w-screen-2xl container md:px-20 px-4 mx-auto'>
-        <div className='mt-28 items-center justify-center text-center'>
+    <div className='max-w-screen-2xl container md:px-20 px-4 mx-auto mt-16'>
+        <div className=' items-center justify-center text-center'>
             <h1 className='text-2xl md:text-4xl font-semibold'>
                 we are delighted to have you <span className='text-pink-500'>here: !)</span>
             </h1>

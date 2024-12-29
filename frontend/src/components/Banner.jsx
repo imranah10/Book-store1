@@ -4,8 +4,8 @@ export const Banner = () => {
   return (
     <>
      
-      <div className="max-w-screen-2xl container md:px-20 mt-20 mb-10 px-4 mx-auto flex flex-col md:flex-row">
-        <div className="w-full md:w-1/2 mt-12 md:mt-28 order-2 md:order-1">
+      <div className="max-w-screen-2xl container md:px-20 mt-20 mb-10 px-4 mx-auto flex flex-col md:flex-row dark:mt-0">
+        <div className="w-full md:w-1/2 mt-12 md:mt-28 order-2 md:order-1 ">
           <div className="space-y-6">
             <h1 className="text-4xl font-bold">
               Hello welcome here to learn something{" "}
