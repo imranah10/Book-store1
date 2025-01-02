@@ -15,7 +15,7 @@ export const Cards = ({ item }) => {
             </h2>
             <p className="">{item.Title}</p>
             <div className="card-actions flex justify-between items-center">
-              <div className="badge badge-outline rounded-lg border">
+              <div className="px-4 py-1  rounded-md border-[2px]">
                 ${item.price}
               </div>
               <div className="cursor-pointer px-2 py-1  rounded-full border-[2px]  hover:text-white hover:bg-pink-400 duration-200 bg-pink-600">

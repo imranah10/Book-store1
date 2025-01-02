@@ -30,18 +30,17 @@ export const Footer = () => {
             <h6 className="footer-title">Newsletter</h6>
             <fieldset className="form-control w-80">
               <label className="label  ">
-                <span className="label-text dark:text-white">Enter your email address</span>
+                <span className="label-text dark:text-white">Enter your email</span>
               </label>
               <div className=" flex flex-col md:flex-row space-x-2 space-y-2 items-center justify-center">
+
                 <div className="w-full md:w-1/2">
-                  <input
-                    type="text"
-                    placeholder="username@site.com"
-                    className="px-4 py-3  w-[180px] md:w-full rounded-md"
-                  />
+                  <input className="px-4 py-3 border h-4 md:h-9  w-[130px] md:w-full text-white rounded-md" placeholder="user@site.com"/>
+                  
+                
                 </div>
                 <div className="w-full md:w-1/2">
-                  <button className="px-4 py-3 bg-black  w-[180px] md:w-full text-white rounded-md">
+                  <button className="px-4 md:py-3 w-fit bg-pink-600 h-6 md:h-9  w-46 md:w-full text-white rounded-md">
                     Subscribe
                   </button>
                 </div>

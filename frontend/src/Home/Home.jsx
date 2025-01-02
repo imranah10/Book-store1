@@ -7,7 +7,7 @@ import {Footer} from '../components/Footer'
 export const Home = () => {
   return (
     <>
-    <div className=''>
+    <div>
     <Navbar />
     <Banner />
     <Freebooks />
